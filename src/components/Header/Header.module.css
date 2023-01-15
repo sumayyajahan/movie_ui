@@ -1,0 +1,13 @@
+.navBar{
+    height: 60px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.navBar>div>a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 20px;
+}
